@@ -1,4 +1,4 @@
-Task of lesson #6
+Task of lesson #7
 
 Required:
 

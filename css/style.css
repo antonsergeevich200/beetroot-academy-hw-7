@@ -234,4 +234,18 @@ h2 {
     border: none;
     text-decoration: none;
     display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact_button:hover {
+    background-color: #828282;
+  }
+
+  .medias a {
+    display: inline-block;
+    transition: opacity 0.3s ease;
+  }
+  
+  .medias a:hover {
+    opacity: 0.5;
   }
